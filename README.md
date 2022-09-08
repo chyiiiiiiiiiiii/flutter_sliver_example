@@ -4,7 +4,7 @@
 
 Use CustomScrollView to implement complicated UI and effect of ScrollView.
 
-Medium Artical: [實作Flutter的複雜有趣的滾動效果CustomScrollView！](https://yiichenhi.medium.com/)
+Medium Artical: [實作Flutter的複雜有趣的滾動效果CustomScrollView！](https://yiichenhi.medium.com/%E5%AF%A6%E4%BD%9Cflutter%E7%9A%84%E8%A4%87%E9%9B%9C%E6%9C%89%E8%B6%A3%E7%9A%84%E6%BB%BE%E5%8B%95%E6%95%88%E6%9E%9Ccustomscrollview-d7daacae9430)
 
 ## Contribute
 - You can star and share with other developers if you feel good and learn something from this repository.
